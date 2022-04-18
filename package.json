@@ -1,6 +1,6 @@
 {
-  "name": "@legendslayer01org/terminal-quiz",
-  "version": "1.0.1",
+  "name": "@legendslayer01/terminal-quiz",
+  "version": "1.0.0",
   "description": "Terminal quiz for CD",
   "main": "index.js",
   "type": "module",

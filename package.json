@@ -1,5 +1,5 @@
 {
-  "name": "terminal-quiz",
+  "name": "@legendslayer/terminal-quiz",
   "version": "1.0.0",
   "description": "Terminal quiz for CD",
   "main": "index.js",
